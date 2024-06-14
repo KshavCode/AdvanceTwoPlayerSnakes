@@ -1,4 +1,4 @@
-import pygame, random, os, tkinter, pandas as pd
+import pygame, random, os, tkinter
 
 
 # ARROW - PLAYER 1
